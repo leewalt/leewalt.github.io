@@ -1,0 +1,14 @@
+body {
+    background-color: rebeccapurple;
+}
+<style>
+  @media (min-width: 500px) and (max-width: 600px) {
+    h1 {
+      color: darkgoldenrod;
+    }
+
+  }
+</style>
+    
+    
+}
